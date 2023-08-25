@@ -1,0 +1,1 @@
+entrainement pour l'utilisation de git dans vs code
